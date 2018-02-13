@@ -1,0 +1,42 @@
+{
+  "name": "POLL8",
+  "version": "1.0.0",
+  "description": "Create and track technology related polls",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchurst/poll8"
+  },
+  "author": "JC Hurst",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jchurst/poll8/issues"
+  },
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ],
+  "homepage": "https://github.com/jchurst/poll8#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^4.0.0",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "jasmine": "^2.8.0",
+    "karma": "^1.7.1",
+    "method-override": "^2.3.10",
+    "mongoose": "^4.13.6",
+    "mongoose-findorcreate": "^2.0.0",
+    "passport": "^0.4.0",
+    "passport-github": "^1.1.0",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^4.4.0",
+    "passport-twitter": "^1.0.4",
+    "protractor": "^5.2.2"
+  }
+}
