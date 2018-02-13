@@ -27,4 +27,4 @@ Created by JC Hurst
 
 ##### • View poll results in chart form
 
-[Project on Github](https://github.com/jchurst/poll8)
+[Demo](https://poll8.glitch.me)
