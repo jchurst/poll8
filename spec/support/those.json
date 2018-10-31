@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Those one",
+    "start": "2018-10-20",
+    "allDay": false,
+    "url": "http://google.com",
+    "className": "ghb"
+  },
+  {
+    "title": "Those two",
+    "start": "2018-10-20",
+    "allDay": false,
+    "url": "http://google.com",
+    "className": "ghb"
+  },
+  {
+    "title": "Those three",
+    "start": "2018-10-19",
+    "allDay": false,
+    "url": "http://google.com",
+    "className": "ksz"
+  },
+  {
+    "title": "Those onfoure",
+    "start": "2018-10-14",
+    "allDay": false,
+    "url": "http://google.com",
+    "className": "hps"
+  }
+]

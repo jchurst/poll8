@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Them one",
+    "start": "2018-10-17",
+    "allDay": false,
+    "url": "http://google.com",
+    "className": "ghb"
+  },
+  {
+    "title": "Them two",
+    "start": "2018-10-14",
+    "allDay": false,
+    "url": "http://google.com",
+    "className": "ghb"
+  },
+  {
+    "title": "Them three",
+    "start": "2018-10-12",
+    "allDay": false,
+    "url": "http://google.com",
+    "className": "ksz"
+  }
+]
